@@ -5,7 +5,7 @@ import plotly.express as px
 import random
 
 # Title
-st.title("Huncho Ahmed")  # ← Replaced "Penguins Rock" with my name
+st.title("Hamdaan Ahmed")  # ← Replaced "Penguins Rock" with my name
 
 # Load penguin dataset
 df = sns.load_dataset("penguins").dropna()
